@@ -4,10 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12156225588&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 - 👀 I’m interested in ...
 - 🤓 I'm currently working on a quiz app to know what dog breed are you based on your personality
 - 🌱 I’m currently learning React.js
-- 😄 Pronouns: She/Her
+- 😄 Hobbies: Reading, taking care of plants
 - ⚡ Fun fact:
 
 ## My Github Stats
