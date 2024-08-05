@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Farrah Dionisio @farrahdlsdionisio
 
-![](https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A)
+![](https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge)
 
 - 👀 I’m interested in ...
 - 🤓 I'm currently working on a quiz app to know what dog breed are you based on your personality
