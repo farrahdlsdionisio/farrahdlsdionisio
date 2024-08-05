@@ -10,4 +10,11 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:
 
-<img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htZXpicmtmb2p3b3YzZm8yaHl4MjZmMXIyODBjanI2d3M5aGlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwJhwgfpmTKNErbzRv/giphy.gif">
+<h3>My Tech Stack</h3>
+
+<h3>My Github Stats</h3>
+![Farrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true)
+
+<h3>Connect with me</h3>
+
+<img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htZXpicmtmb2p3b3YzZm8yaHl4MjZmMXIyODBjanI2d3M5aGlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwJhwgfpmTKNErbzRv/giphy.gif">
