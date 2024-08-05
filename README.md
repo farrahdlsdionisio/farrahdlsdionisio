@@ -10,4 +10,4 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVqbTBheWhjNmNoY3B3M21oZGhwazdncTgwZmNrNGV4cjF6eWMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YS7BctOtlyed2/giphy.gif">
+<img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htZXpicmtmb2p3b3YzZm8yaHl4MjZmMXIyODBjanI2d3M5aGlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwJhwgfpmTKNErbzRv/giphy.gif">
