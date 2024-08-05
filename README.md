@@ -13,7 +13,7 @@
 <h3>My Tech Stack</h3>
 
 <h3>My Github Stats</h3>
-![](https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true)
 
 <h3>Connect with me</h3>
 
