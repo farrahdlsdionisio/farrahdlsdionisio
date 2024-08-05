@@ -18,4 +18,4 @@
 
 <h3>Connect with me</h3>
 
-<img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3drcW5ucGZpMnh4b2QxYW51NHM2aW9zd3QxZW9la2h2djB5ZWNjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdTyox6pIqyCLgQ/giphy.gif">
+<img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
