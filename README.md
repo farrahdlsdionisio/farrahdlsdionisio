@@ -1,5 +1,4 @@
 ![logo](Farrah_Dionisio_Brand.png)
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxNm81OGwzaDlxeXZxOW9lank3ZGhueWZ6MTBoejZnZTdmNmc0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eH3yTE7OfOnDCnpfr5/giphy.gif">
 
 # 👋 Hi, I’m Farrah Dionisio @farrahdlsdionisio
 
@@ -10,3 +9,5 @@
 - 📫 How to reach me: farrahdlsdionisio@gmail.com OR discord - @farrahfranklin0924
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVqbTBheWhjNmNoY3B3M21oZGhwazdncTgwZmNrNGV4cjF6eWMxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YS7BctOtlyed2/giphy.gif">
