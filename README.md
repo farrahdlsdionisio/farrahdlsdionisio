@@ -2,9 +2,15 @@
 
 # 👋 Hi, I’m Farrah Dionisio @farrahdlsdionisio
 
-![](https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge)
+<section style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="margin: 0;">
+      <img src="https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge" alt="Profile Views" />
+  </p>
+  <p style="margin: 0;">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12156225588&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false" alt="Spotify Profile" />
+  </p>
+</section>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12156225588&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 👀 I’m interested in ...
 - 🤓 I'm currently working on a quiz app to know what dog breed are you based on your personality
@@ -14,8 +20,7 @@
 
 ## My Github Stats
 
-[![Farrah's GitHub stats](https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true" alt="farrahdlsdionisio" /></p>
 <h3>My Tech Stack</h3>
 
 <h3>Connect with me</h3>
