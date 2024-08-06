@@ -2,27 +2,19 @@
 
 # 👋 Hi, I’m Farrah Dionisio @farrahdlsdionisio
 
-<table width="100%">
-  <tr>
-    <td align="left" width="100%">
-      <img src="https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge" alt="Profile Views" />
-    </td>
-    <td align="right" width="100%">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12156225588&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false" alt="Spotify Profile" />
-    </td>
-  </tr>
-</table>
+<section style="width: 100%; display: flex;">
+  <img align="left" src="https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
+  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12156225588&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false" alt="Spotify Profile" style="max-width: 49%;"/>
+<section>
 
-
-
-
-
+## About Me
 - 👀 I’m interested in ...
 - 🤓 I'm currently working on a quiz app to know what dog breed are you based on your personality
 - 🌱 I’m currently learning React.js
 - 😄 Hobbies: Reading, taking care of plants
-- ⚡ Fun fact:
+- ⚡ Fun facts:
 
+- 
 ## My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true" alt="farrahdlsdionisio" /></p>
