@@ -2,14 +2,19 @@
 
 # 👋 Hi, I’m Farrah Dionisio @farrahdlsdionisio
 
-<section style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="margin: 0;">
+<table width="100%">
+  <tr>
+    <td align="left" width="100%">
       <img src="https://komarev.com/ghpvc/?username=farrahdlsdionisio&color=FF7A8A&style=for-the-badge" alt="Profile Views" />
-  </p>
-  <p style="margin: 0;">
+    </td>
+    <td align="right" width="100%">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12156225588&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false" alt="Spotify Profile" />
-  </p>
-</section>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 - 👀 I’m interested in ...
