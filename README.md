@@ -51,7 +51,7 @@
 
 ## My Resume
 
-You can view my resume for your reference here
+You can view my resume for your reference here:
 [Click to view my resume](https://drive.google.com/file/d/1MzBDkX5SJQGPflRPO7Po7ZfxXYu4d0-j/)
 
 <img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
