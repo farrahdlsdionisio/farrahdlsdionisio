@@ -40,7 +40,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true" alt="farrahdlsdionisio" /></p>
 
-## Connect with me</h3>
+## Connect with me
 
 [![Discord](./src/social-media/discord.svg)](https://discordapp.com/users/farrahfranklin0924)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](./src/social-media/instagram.svg)](https://www.instagram.com/farrahdfranklin)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,5 +48,10 @@
 [![TikTok](./src/social-media/tiktok.svg)](https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1)&nbsp;&nbsp;&nbsp;&nbsp;
 [![YouTube](./src/social-media/youtube.svg)](https://www.youtube.com/@techypop0924)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Dev.to](./src/social-media/dev.svg)](https://dev.to/farrahdlsdionisio)
+
+## My Resume
+
+You can view my resume for your reference here
+[![Click to view my resume](https://drive.google.com/file/d/1MzBDkX5SJQGPflRPO7Po7ZfxXYu4d0-j/)
 
 <img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
