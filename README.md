@@ -17,24 +17,24 @@
 
 ## My Tech Stack
 
-[![AWS](./src/tech-stack/aws.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Bootstrap](./src/tech-stack/bootstrap.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![CSS](./src/tech-stack/css.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Docker](./src/tech-stack/docker.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Figma](./src/tech-stack/figma.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Firebase](./src/tech-stack/firebase.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Git](./src/tech-stack/git.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![HTML](./src/tech-stack/html.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Javascript](./src/tech-stack/javascript.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Laravel](./src/tech-stack/laravel.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![MySQL](./src/tech-stack/mysql.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Node.js](./src/tech-stack/nodejs.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![PHP](./src/tech-stack/php.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![React.js](./src/tech-stack/reactjs.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Redis](./src/tech-stack/redis.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Sass](./src/tech-stack/sass.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Socket.io](./src/tech-stack/socketio.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
-[![Vue.js](./src/tech-stack/vuejs.svg)]&nbsp;&nbsp;&nbsp;&nbsp;
+![AWS](./src/tech-stack/aws.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bootstrap](./src/tech-stack/bootstrap.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS](./src/tech-stack/css.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Docker](./src/tech-stack/docker.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Figma](./src/tech-stack/figma.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Firebase](./src/tech-stack/firebase.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](./src/tech-stack/git.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML](./src/tech-stack/html.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Javascript](./src/tech-stack/javascript.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Laravel](./src/tech-stack/laravel.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![MySQL](./src/tech-stack/mysql.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Node.js](./src/tech-stack/nodejs.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![PHP](./src/tech-stack/php.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![React.js](./src/tech-stack/reactjs.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Redis](./src/tech-stack/redis.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Sass](./src/tech-stack/sass.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Socket.io](./src/tech-stack/socketio.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Vue.js](./src/tech-stack/vuejs.svg)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## My Github Stats
 
