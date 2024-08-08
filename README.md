@@ -54,6 +54,7 @@
 You can view my resume for your reference here:
 [Click to view my resume](https://drive.google.com/file/d/1MzBDkX5SJQGPflRPO7Po7ZfxXYu4d0-j/)
 
-_I wrote a blog post about how I created my GitHub profile and shared references to the widgets I used_. [Click here to read:] (https://dev.to/farrahdlsdionisio/creating-my-github-profile-readmemd-3393)
+*I wrote a blog post about how I created my GitHub profile and shared references to the widgets I used.*
+[Click here to read](https://dev.to/farrahdlsdionisio/creating-my-github-profile-readmemd-3393)
 
 <img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
