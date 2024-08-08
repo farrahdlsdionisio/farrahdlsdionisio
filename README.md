@@ -8,18 +8,41 @@
 <section>
 
 ## About Me
+
 - 👀 I’m interested in ...
 - 🤓 I'm currently working on a quiz app to know what dog breed are you based on your personality
 - 🌱 I’m currently learning React.js
 - 😄 Hobbies: Reading, taking care of plants
 - ⚡ Fun facts:
 
-- 
+-
+
 ## My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true" alt="farrahdlsdionisio" /></p>
 <h3>My Tech Stack</h3>
 
 <h3>Connect with me</h3>
+<section>
+  <a href="https://discordapp.com/users/farrahfranklin0924" target="_blank">
+    <img src="./src/discord.svg" />
+   
+  </a> 
+  <a href="https://www.instagram.com/farrahdfranklin" target="_blank">
+    <img src="./src/instagram.svg" />
+  </a>
+  <a href="mailto:farrahdlsdionisio@gmail.com" target="_blank">
+    <img src="./src/mail.svg" />
+  </a>
+  <a href="https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1" target="_blank">
+    <img src="./src/tiktok.svg" />
+  </a>
+  <a href="https://www.youtube.com/@techypop0924" target="_blank">
+    <img src="./src/youtube.svg" />
+  </a>
+   <a href="https://dev.to/farrahdlsdionisio" target="_blank">
+    <img src="./src/dev.svg" />
+  </a>
+</section>
 
 <img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
