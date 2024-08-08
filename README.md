@@ -11,18 +11,17 @@
 
 ## About Me
 
-- 👀 I’m interested in ...
-- 🤓 I'm currently working on a quiz app to know what dog breed are you based on your personality
-- 🌱 I’m currently learning React.js
-- 😄 Hobbies: Reading, taking care of plants
-- ⚡ Fun facts:
-
--
+- 👀 I’m interested in exploring new technologies.
+- 🤓 I'm currently working on a quiz app to determine what dog breed you are based on your personality.
+- 🌱 I’m currently learning React.js.
+- 😄 Hobbies: Traveling, reading, taking care of plants, and playing video games.
+- ⚡ Fun fact: I mastered baking the perfect cookie 🍪 (the real one).
 
 ## My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farrahdlsdionisio&theme=prussian&show_icons=true" alt="farrahdlsdionisio" /></p>
-<h3>My Tech Stack</h3>
+
+## My Tech Stack
 
 ## Connect with me</h3>
 
