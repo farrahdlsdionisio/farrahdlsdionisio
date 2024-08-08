@@ -24,23 +24,23 @@
 
 <h3>Connect with me</h3>
 <section>
-  <a href="https://discordapp.com/users/farrahfranklin0924" target="_blank">
+  <a href="https://discordapp.com/users/farrahfranklin0924" rel="external">
     <img src="./src/discord.svg" />
    
   </a> 
-  <a href="https://www.instagram.com/farrahdfranklin" target="_blank">
+  <a href="https://www.instagram.com/farrahdfranklin" rel="external">
     <img src="./src/instagram.svg" />
   </a>
-  <a href="mailto:farrahdlsdionisio@gmail.com" target="_blank">
+  <a href="mailto:farrahdlsdionisio@gmail.com" rel="external">
     <img src="./src/mail.svg" />
   </a>
-  <a href="https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1" target="_blank">
+  <a href="https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1" rel="external">
     <img src="./src/tiktok.svg" />
   </a>
-  <a href="https://www.youtube.com/@techypop0924" target="_blank">
+  <a href="https://www.youtube.com/@techypop0924" rel="external">
     <img src="./src/youtube.svg" />
   </a>
-   <a href="https://dev.to/farrahdlsdionisio" target="_blank">
+   <a href="https://dev.to/farrahdlsdionisio" rel="external">
     <img src="./src/dev.svg" />
   </a>
 </section>
