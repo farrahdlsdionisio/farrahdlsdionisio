@@ -24,25 +24,12 @@
 
 <h3>Connect with me</h3>
 <section>
-  <a href="https://discordapp.com/users/farrahfranklin0924" rel="external">
-    <img src="./src/discord.svg" />
-   
-  </a> 
-  <a href="https://www.instagram.com/farrahdfranklin" rel="external">
-    <img src="./src/instagram.svg" />
-  </a>
-  <a href="mailto:farrahdlsdionisio@gmail.com" rel="external">
-    <img src="./src/mail.svg" />
-  </a>
-  <a href="https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1" rel="external">
-    <img src="./src/tiktok.svg" />
-  </a>
-  <a href="https://www.youtube.com/@techypop0924" rel="external">
-    <img src="./src/youtube.svg" />
-  </a>
-   <a href="https://dev.to/farrahdlsdionisio" rel="external">
-    <img src="./src/dev.svg" />
-  </a>
+  [![Discord](./src/discord.svg)](https://discordapp.com/users/farrahfranklin0924)
+  [![Instagram](./src/instagram.svg)](https://www.instagram.com/farrahdfranklin)
+  [![Mail](./src/mail.svg)](mailto:farrahdlsdionisio@gmail.com)
+  [![TikTok](./src/tiktok.svg)](https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1)
+  [![YouTube](./src/youtube.svg)](https://www.youtube.com/@techypop0924)
+  [![Dev.to](./src/dev.svg)](https://dev.to/farrahdlsdionisio)
 </section>
 
 <img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
