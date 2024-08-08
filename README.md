@@ -24,11 +24,11 @@
 
 ## Connect with me</h3>
 
-[![Discord](./src/discord.svg)](https://discordapp.com/users/farrahfranklin0924)
-[![Instagram](./src/instagram.svg)](https://www.instagram.com/farrahdfranklin)
-[![Mail](./src/mail.svg)](mailto:farrahdlsdionisio@gmail.com)
-[![TikTok](./src/tiktok.svg)](https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1)
-[![YouTube](./src/youtube.svg)](https://www.youtube.com/@techypop0924)
+[![Discord](./src/discord.svg)](https://discordapp.com/users/farrahfranklin0924)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](./src/instagram.svg)](https://www.instagram.com/farrahdfranklin)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Mail](./src/mail.svg)](mailto:farrahdlsdionisio@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![TikTok](./src/tiktok.svg)](https://www.tiktok.com/@techypop8?_t=8ogvQsKo84A&_r=1)&nbsp;&nbsp;&nbsp;&nbsp;
+[![YouTube](./src/youtube.svg)](https://www.youtube.com/@techypop0924)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Dev.to](./src/dev.svg)](https://dev.to/farrahdlsdionisio)
 
 <img width="100%" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif">
