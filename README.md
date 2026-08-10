@@ -52,7 +52,7 @@
 ## My Resume
 
 You can view my resume for your reference here:
-[Click to view my resume](https://drive.google.com/file/d/1MzBDkX5SJQGPflRPO7Po7ZfxXYu4d0-j/)
+[Click to view my resume](https://drive.google.com/file/d/1MPb5JOqs-I6XaKuuvnDxWYGMRpIP6Gok/)
 
 *I wrote a blog post about how I created my GitHub profile and shared references to the widgets I used.*
 [Click here to read](https://dev.to/farrahdlsdionisio/creating-my-github-profile-readmemd-3393)
